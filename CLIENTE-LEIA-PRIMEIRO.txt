@@ -1,0 +1,16 @@
+KIT DA FÁBRICA DE SAAS — LEIA PRIMEIRO
+
+Você não precisa saber programar. O guia em PDF explica a jornada; esta é a instrução única para começar.
+
+1. Descompacte o Kit e guarde uma cópia original.
+2. Faça uma cópia para o seu projeto e abra a pasta que contém START-HERE.md na ferramenta de IA.
+3. Confirme que a ferramenta consegue ler e editar os arquivos dessa pasta. O Codex é o caminho de referência; outras IAs de desenvolvimento podem exigir adaptação. Um chat que apenas recebe mensagens não consegue construir o software por ter recebido o Kit.
+4. Envie esta mensagem:
+
+   Leia o START-HERE.md e comece. Quero criar meu software.
+
+5. Responda às perguntas de descoberta em linguagem comum. Revise o resumo e aprove o plano antes da construção.
+
+As seis pastas numeradas mostram a jornada. AGENTS.md e .agents/skills/ orientam agentes compatíveis; START-HERE.md continua sendo a entrada mesmo quando a ferramenta não descobre skills automaticamente.
+
+Não envie senhas, credenciais nem dados reais de clientes para começar. O acesso à IA e a hospedagem não estão incluídos. Publicação exige sua autorização.
